@@ -12,8 +12,40 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 -->
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>-->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/felipe-f-18593b25/" target="_blank" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://github.com/felpfsf" target="_blank" alt="Github">
+  <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge">
+  </a>
+  <a href="https://codepen.io/felpfsf" target="_blank" alt="Codepen">
+  <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge">  
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=felpfsf&style=flat-square&color=blue" alt=""/>
+</div>
+
+------------
+
+![Felpfsf's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian)
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
+-------------
