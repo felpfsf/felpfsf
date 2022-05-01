@@ -53,3 +53,10 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+-------------
+
+### Badges
+<div align="center">
+<img src="https://github.com/felpfsf/felpfsf/blob/main/badge_desafio_1.png" title="Alura | Challenge 1 - Lógica de programação" alt="Desafio Alura" width="300" height="300" />
+</div>
