@@ -39,7 +39,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 </div>
 <h1>
   :man_technologist:<br>
-  ....em construção...
+  Front end Dev in progress
 </h1>
 
 <div align="center">
