@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
 https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
+
+![image](https://user-images.githubusercontent.com/2619027/167958837-5a63e3f2-d4ec-414c-8fa3-be02dc71c018.png)
 -->
 
 <!--<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>-->
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
