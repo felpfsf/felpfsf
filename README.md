@@ -66,5 +66,6 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 </div>
 
 ------
-
+<!--
 ![Snake animation](https://github.com/felpfsf/felpfsf/blob/output/github-contribution-grid-snake.svg)
+-->
