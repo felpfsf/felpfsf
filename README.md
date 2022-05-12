@@ -64,3 +64,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 <div align="center">
 <img src="https://github.com/felpfsf/felpfsf/blob/main/badge_desafio_1.png" title="Alura | Challenge 1 - Lógica de programação" alt="Desafio Alura" width="300" height="300" />
 </div>
+
+------
+
+![Snake animation](https://github.com/felpfsf/felpfsf/blob/output/github-contribution-grid-snake.svg)
