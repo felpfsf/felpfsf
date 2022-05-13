@@ -12,9 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[tela de fundo com código]
 https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
+[tela de fundo com 0001110101001]
 https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 
+[imagem de um computador]
 ![image](https://user-images.githubusercontent.com/2619027/167958837-5a63e3f2-d4ec-414c-8fa3-be02dc71c018.png)
 -->
 
@@ -24,6 +28,11 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 
 
 <div id="header" align="center">
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licença">License</a>
+
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
 </div>
 
@@ -62,7 +71,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 
 ### Badges
 <div align="center">
-<img src="https://github.com/felpfsf/felpfsf/blob/main/badge_desafio_1.png" title="Alura | Challenge 1 - Lógica de programação" alt="Desafio Alura" width="300" height="300" />
+<img src="https://github.com/felpfsf/felpfsf/blob/main/badges/badge_desafio_1.png" title="Alura | Challenge 1 - Lógica de programação" alt="Desafio Alura" width="300" height="300" />
 </div>
 
 ------
