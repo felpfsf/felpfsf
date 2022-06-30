@@ -20,6 +20,8 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 
 [imagem de um computador]
 ![image](https://user-images.githubusercontent.com/2619027/167958837-5a63e3f2-d4ec-414c-8fa3-be02dc71c018.png)
+![image](https://user-images.githubusercontent.com/2619027/176796477-43bce720-fb73-4e69-8773-9fc309db3160.png)
+
 -->
 
 <!--<div id="header" align="center">
