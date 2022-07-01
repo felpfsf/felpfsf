@@ -21,7 +21,19 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 [imagem de um computador]
 ![image](https://user-images.githubusercontent.com/2619027/167958837-5a63e3f2-d4ec-414c-8fa3-be02dc71c018.png)
 ![image](https://user-images.githubusercontent.com/2619027/176796477-43bce720-fb73-4e69-8773-9fc309db3160.png)
+![image](https://user-images.githubusercontent.com/2619027/176787265-56dfa091-93e8-462a-889c-9c642e27f115.png)
 
+-->
+
+<!-- Header de apresentação #1
+<img src="https://user-images.githubusercontent.com/2619027/167958837-5a63e3f2-d4ec-414c-8fa3-be02dc71c018.png" width="230" height="180" align="right">
+### Faça um breve apresentação sobre você
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub">
+<p>
+Estudando/trabalhando na **nome do lugar**<br/>
+Eu sou desenvolvedor **sua área**.
+</p>
+<hr>
 -->
 
 <!--
@@ -39,9 +51,6 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
   <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Licença">License</a>
   </br>
-  
-  ![image](https://user-images.githubusercontent.com/2619027/176787265-56dfa091-93e8-462a-889c-9c642e27f115.png)
-
 -->
 
 
@@ -64,6 +73,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
   <br />
   <img src="https://komarev.com/ghpvc/?username=felpfsf&style=flat-square&color=blue" alt=""/>
 </div>
+
 <h1>
   :man_technologist:<br>
   Front end Dev in progress
@@ -71,13 +81,17 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian" width="49%" height="195px" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian" width="41%" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian&cache_seconds=2300" width="49%" height="195px" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian&cache_seconds=2300" width="41%" height="195px" />
 
 <!--
 ![Felpfsf's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian)
 -->
 
 </div>
+
+---
+
+### Skills
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="60"/>&nbsp;
@@ -87,7 +101,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="SaSS" width="50" height="60"/>&nbsp;
 </div>
 
--------------
+---
 
 ### Badges
 <div align="center">
@@ -96,7 +110,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 <img src="./badges/badge_desafio_front-end_portifolio.png" title="Alura | Challenge - Lógica de programação" alt="Badge de Desafio Front-end Alura" width="300" height="300" />
 </div>
 
-------
+---
 <!--
 ![Snake animation](https://github.com/felpfsf/felpfsf/blob/output/github-contribution-grid-snake.svg)
 -->
