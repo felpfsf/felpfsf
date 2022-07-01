@@ -87,6 +87,8 @@ Eu sou desenvolvedor **sua área**.
 ![Felpfsf's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian)
 -->
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=felpfsf&theme=gotham&hide_border=true&area=true)
+
 </div>
 
 ---
