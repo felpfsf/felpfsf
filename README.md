@@ -1,32 +1,20 @@
 <div id="header" align="center">
-
-<!--
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Licença">License</a>
-  </br>
--->
-
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
-  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"> 
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/felipe-f-18593b25/" target="_blank" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=black&style=social">
+  </a>&nbsp;
+  
   <a href="https://github.com/felpfsf" target="_blank" alt="Github">
-  <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=for-the-badge">
-  </a>
+    <img src="https://img.shields.io/badge/Github-black?logo=github&logoColor=white&style=flat-square">
+  </a>&nbsp;
   <!--
-  <a href="https://codepen.io/felpfsf" target="_blank" alt="Codepen">
-  <img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge">  
-  </a>
+  <a href="https://codepen.io/felpfsf" target="_blank" alt="Codepen"><img src="https://img.shields.io/badge/Codepen-black?logo=codepen&logoColor=white&style=for-the-badge"></a>
   -->
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=felpfsf&style=flat-square&color=blue" alt=""/>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=felpfsf&style=flat&color=blue" alt=""/>
 </div>
 
 <h1>
@@ -66,8 +54,3 @@
 
 <img src="./badges/badge_desafio_front-end_portifolio.png" title="Alura | Challenge - Lógica de programação" alt="Badge de Desafio Front-end Alura" width="300" height="300" />
 </div>
-
----
-<!--
-![Snake animation](https://github.com/felpfsf/felpfsf/blob/output/github-contribution-grid-snake.svg)
--->
