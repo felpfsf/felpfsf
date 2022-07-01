@@ -32,6 +32,7 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
 
 
 <div id="header" align="center">
+
 <!--
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,7 +43,10 @@ https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif
   ![image](https://user-images.githubusercontent.com/2619027/176787265-56dfa091-93e8-462a-889c-9c642e27f115.png)
 
 -->
+
+
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+  
 </div>
 
 <div id="badges" align="center">
