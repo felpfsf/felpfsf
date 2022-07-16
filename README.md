@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian&cache_seconds=2300" width="49%" height="195px" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian&cache_seconds=2300" width="41%" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian&cache_seconds=2300" width="325px" height="195px" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian&cache_seconds=2300" width="325px" />
 
 <!--
 ![Felpfsf's GitHub stats](https://github-readme-stats.vercel.app/api?username=felpfsf&show_icons=true&theme=prussian)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpfsf&layout=compact&lags_count=7&theme=prussian)
