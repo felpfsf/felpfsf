@@ -21,6 +21,7 @@ Today as a freelancer I develop frontend projects using TypeScript, React and CS
 </a>
 <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=felpfsf&style=for-the-badge&color=blue"/>
 </p>
+
 ---
 
 ## 🧰 Toolbox
@@ -67,8 +68,6 @@ Today as a freelancer I develop frontend projects using TypeScript, React and CS
 </p>
 <a href="https://github.com/felpfsf?tab=repositories&sort=last-updated"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
----
-
 ## 🌟 Badges
 <p align='center'>
 <img src="https://github.com/felpfsf/felpfsf/blob/main/badges/badge_desafio_1.png" title="Alura | Challenge 1 - Lógica de programação" alt="Desafio Alura" width="300" height="300" />
@@ -77,8 +76,6 @@ Today as a freelancer I develop frontend projects using TypeScript, React and CS
 </p>
 
 [![@felpfsf_d3v's Holopin board](https://holopin.me/felpfsf_d3v)](https://holopin.io/@felpfsf_d3v)
-
----
 
 ## 📊 Github stats
 
