@@ -9,6 +9,8 @@ I am a technologist in Management in Information Systems and Computer Science. I
 
 Today as a freelancer I develop frontend projects using TypeScript, React and CSS frameworks like Tailwind, Styled Components and SASS. Always practicing and learning continuously and in the future, aligning with frontend knowledge, I want to specialize as a Mobile developer.
 
+I also have experience in git, git-flow and agile methodologies such as Kanban boards
+
 <p align="left">
 <a href="https://www.linkedin.com/in/felipefsf" target="_blank" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
