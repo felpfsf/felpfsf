@@ -44,7 +44,10 @@ Today as a freelancer I develop frontend projects using TypeScript, React and CS
 ## Projects
 
 <p align="left">
-    <a href="https://github.com/felpfsf/digitux">
+  <a href="https://github.com/felpfsf/miniblog">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=miniblog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="digitux">
+  </a>
+  <a href="https://github.com/felpfsf/digitux">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=digitux&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="digitux">
   </a>
   <a href="https://github.com/felpfsf/owlrangenotes-frontend">
