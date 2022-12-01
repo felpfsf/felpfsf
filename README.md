@@ -54,10 +54,6 @@ I also have experience in git, git-flow and agile methodologies such as Kanban b
   </a>
   <a href="https://github.com/felpfsf/owlrangenotes-frontend">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=owlrangenotes-frontend&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="owlrangenotes-frontend">
-  </a>
-  <a href="https://github.com/felpfsf/mission-space-explorers">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=mission-space-explorers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mission-space-explorers">
-  </a>
   <a href="https://github.com/felpfsf/mission-space-explorers">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=mission-space-explorers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="mission-space-explorers">
   </a>
