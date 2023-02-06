@@ -46,6 +46,9 @@ I also have experience in git, git-flow and agile methodologies such as Kanban b
 ## Projects
 
 <p align="left">
+  <a href="https://github.com/felpfsf/auth-node-react">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=auth-node-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="space-tourism">
+  </a>
   <a href="https://github.com/felpfsf/moments-blog-api">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=moments-blog-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="space-tourism">
   </a>
