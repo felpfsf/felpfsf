@@ -46,8 +46,17 @@ I also have experience in git, git-flow and agile methodologies such as Kanban b
 ## Projects
 
 <p align="left">
+  <a href="https://github.com/felpfsf/coffee-shop">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=coffee-shop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-shop">
+  </a>
+  <a href="https://github.com/felpfsf/todo-list">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=todo-list&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="todo-list">
+  </a>
   <a href="https://github.com/felpfsf/desafio-bruxo-ts">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=desafio-bruxo-ts&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="desafio-bruxo-ts">
+  </a>
+  <a href="https://github.com/felpfsf/DesafioBruxo">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=DesafioBruxo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="DesafioBruxo">
   </a>
   <a href="https://github.com/felpfsf/auth-node-react">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=auth-node-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="auth-node-react">
