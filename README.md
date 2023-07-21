@@ -46,9 +46,12 @@ I also have experience in git, git-flow and agile methodologies such as Kanban b
 ## Projects
 
 <p align="left">
+    <a href="https://github.com/felpfsf/filmfrenzy-web">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=filmfrenzy-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="filmfrenzy-web">
+    </a>
    <a href="https://github.com/felpfsf/cuckoo-next">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=cuckoo-next&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cuckoo-next">
-  </a>
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=cuckoo-next&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cuckoo-next">
+    </a>
   <a href="https://github.com/felpfsf/coffee-shop">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=felpfsf&repo=coffee-shop&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="coffee-shop">
   </a>
