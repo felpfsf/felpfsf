@@ -11,6 +11,10 @@ Today as a freelancer I develop frontend projects using TypeScript, React and CS
 
 I also have experience in git, git-flow and agile methodologies such as Kanban boards
 
+**Important**
+
+The Filmfrenzy project, for some reason it started to receive a lot of hits and ended up running out of Vercel's bandwidth and image optimization limits, I couldn't revert back and had to delete my account, because of that some of these projects will have broken links, I'm already solving these problems and soon these projects will be on air again.
+
 <p align="left">
 <a href="https://www.linkedin.com/in/felipefsf" target="_blank" alt="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
