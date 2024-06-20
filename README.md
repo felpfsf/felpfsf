@@ -7,11 +7,13 @@
 
 I am a technologist in Management in Information Systems and Computer Science. I made a career transition to web development.
 
-Today as a freelancer I develop frontend projects using TypeScript, React and CSS frameworks like Tailwind, Styled Components and SASS. Always practicing and learning continuously and in the future, aligning with frontend knowledge, I want to specialize as a Mobile developer.
+Currently, I collaborate in the development of an exclusive product, utilizing frameworks such as Vue.js on the frontend and Node.js with Express on the backend. I apply the MVVM architecture to ensure a robust frontend foundation and follow Clean Architecture principles on the backend.
 
-I also have experience in git, git-flow and agile methodologies such as Kanban boards
+Additionally, I have experience in git, git-flow, and agile methodologies such as Kanban boards. I am proficient with Node.js, Typescript, React, Vue, and CSS frameworks like Tailwind, Styled Components, and SASS. My collaborative approach and commitment to continuous learning enable me to contribute effectively to project success. I aim to specialize in frontend and mobile development in the future.
 
 **Important**
+
+MOST OF MY PROJECTS ARE DOWN, I'm a little off my github lately due to other things,but soon I'll update the projects
 
 The Filmfrenzy project, for some reason it started to receive a lot of hits and ended up running out of Vercel's bandwidth and image optimization limits, I couldn't revert back and had to delete my account, because of that some of these projects will have broken links, I'm already solving these problems and soon these projects will be on air again.
 
